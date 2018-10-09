@@ -12,6 +12,15 @@
 - val `immutable`
 #### Class
 #### Constructor
+#### Iterators [Loop]
+- For Loop
+- WHILE Loop
+- DO WHILE Loop
+- Break and Continue Statements
+##### Loop Structure
+- Counter Variable
+- Condition Check
+- Increment/Decrement the Counter
 
 #### Comment
 - `// In-Line Commend`
