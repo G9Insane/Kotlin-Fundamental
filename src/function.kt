@@ -7,6 +7,8 @@ fun main(args: Array<String>) {
     personObj.name = name
 
     println("Call Variable Inside Class ${personObj.name}")
+
+
 }
 
 fun display(name: String) { //basic function
