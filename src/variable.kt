@@ -1,14 +1,12 @@
 fun main(args: Array<String>) {
     //mutable variable
-    var myNumber =10
-    var myDecimal = 1.0
-    var myString:String
-    myString = "Hello Dude"
+    var myNumber =10 // int
+    var myDecimal = 1.0 // decimal
+    var myString = "Hello Dude" //string
     myString = "Hello Noob"
 
-    //immutable variable
-    val myAnotherString :String
-    myAnotherString = "Hello This is immutable var"
+
+    val myAnotherString :String = "Hello This is immutable var" //example immutable
 
     println("Number "+ myNumber)
     println("Decimal "+ myDecimal)
